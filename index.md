@@ -1,3 +1,13 @@
+# Daphne Liu 
+_CodeU Mentee (Google) | Software Developer Intern (RBC) | Looking for 2019 Summer Internship_
+
+I am a proactive and diligent 3rd year Computer Science student at University of British Columbia. I am currently working as a Software Developer intern at RBC. I am interested and worked on a few Android and VR projects. Outside of school, I volunteered to teach girls CS and particpate in hackathons (i was a finalist in two of the three hackathons I attended!) 
+
+I would appreciate opportunities to learn, meet people, and work in different teams. If you would like to chat, feel free to contact me at daphnel.liu97@gmail.com. 
+
+- [Resume](https://dropbox.com/s/bx2afwmxu4brbq7/Daphne%20Liu_Resume.pdf?dl=0)
+- [GitHub](github.com/daphliu)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/daphliu/daphliu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
