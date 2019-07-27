@@ -6,5 +6,5 @@ Outside of school, I am a 2 times hackathons finalist and am currently working o
 
 Feel free to reach out to me, let's chat! 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
-- Resume: [PDF](Daphne-Liu-Resume.pdf)
+- Resume: [PDF](Daphne-Liu_Resume.pdf)
 - Github: [github.com/daphliu](https://github.com/daphliu)
