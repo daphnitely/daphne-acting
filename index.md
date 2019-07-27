@@ -5,6 +5,6 @@ I have a strong interest in Android development and published my app, Color Brea
 Outside of school, I am a 2 times hackathons finalist and am currently working on a coffee chat initiative to connect first year CS student to upper year students.
 
 Feel free to reach out to me, let's chat! 
-- Email: daphnel.liu97@gmail.com
--	Resume: https://bit.ly/2PskUqU
--	Github: github.com/daphliu 
+- Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
+- Resume: [PDF](Daphne-Liu-Resume.pdf)
+- Github: [github.com/daphliu](https://github.com/daphliu)
