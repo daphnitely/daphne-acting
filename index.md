@@ -6,13 +6,13 @@ Feel free to reach out to me, let's chat :)
 - Github: [github.com/daphliu](https://github.com/daphliu)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 
-### Education
+<!-- ### Education
 
 University of British Columbia, Bachelor of Science in Computer Science, 4th Year (Sep 2015 - May 2021)
 
 ### Skills
 
-Android, Kotlin, Java, Scala, React, JavaScript, HTML/CSS, JSON, SQL, GraphQL, Unix, Git
+Android, Kotlin, Java, Scala, React, JavaScript, HTML/CSS, JSON, SQL, GraphQL, Unix, Git -->
 
 ### Relevant Experience
 
