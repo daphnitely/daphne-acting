@@ -2,7 +2,7 @@ Hello there! My name is Daphne.
 Feel free to reach out to me, let's chat :)
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
-- Resume: [PDF](Daphne_Liu_Resume.pdf)
+- Resume: [PDF](resume.pdf)
 - Github: [github.com/daphliu](https://github.com/daphliu)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 
