@@ -3,21 +3,56 @@
 
 @import "{{ site.theme }}";
 
-$brand-color: #7ebf85;
+$brand-color: #862D1D;
+$old-brand: #7ebf85;
+
+$body-text-color: #212121;
+$header-bg-color: $brand-color;
+$header-bg-color-secondary: $brand-color;
+
+body {
+    background: #FFEEC4;
+}
 
 .page-header {
     background-color: $brand-color;
-    background-image: linear-gradient(120deg, darken($brand-color, 30%), $brand-color);
+    background-image: none;
 }
 
 .project-name {
     text-transform: uppercase;
 }
 
+.industry-item {
+    display: flex;
+}
+.industry-logo {
+    margin-right: 1rem;
+}
+
+.main-content h3 {
+    text-align: center;
+    font-size: 2rem;
+    color: inherit;
+}
+.main-content h3::after {
+    content: '';
+    display: block;
+    background: $brand-color;
+    height: 2px;
+    width: 5rem;
+    margin: auto;
+}
+
 .main-content h5 {
+    display: flex;
     font-size: 1rem;
     font-weight: bold;
     color: inherit;
     margin-top: 1rem;
     margin-bottom: 0;
+}
+.main-content h5 em {
+    font-style: normal;
+    margin-left: auto;
 }
