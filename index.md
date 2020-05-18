@@ -80,23 +80,23 @@ University of British Columbia, Bachelor of Science in Computer Science, 4th Yea
 
 ### Projects
 
-##### Founder and Co-president, UBC Women in CS (Sept 2019 - Apr 2020)
+##### Founder and Co-president, UBC Women in CS _Sept 2019 - Apr 2020_
 
 - Started [UBC Women in CS club](http://ubcwics.com/), assembling a team of 10 student executives and 3 departmental sponsors, defining the mission and establishing overall infrastructure.
 - Represented the club in monthly department meetings to discuss progress and changes to the Computer Science department.
 - Executed 4 events throughout the term, such as paint night and board game events, reaching over 90 female CS students at UBC.
 
-##### Co-Founder, UBC CS Coffee Chat (Sept 2019 - Apr 2020)
+##### Co-Founder, UBC CS Coffee Chat _Sept 2019 - Apr 2020_
 
 - Matched 150+ lower year to upper year Computer Science students at UBC for monthly coffee chats, providing a chance to ask questions and receive mentorship.
 - Wrote a Python script to consume CSV data from Qualtrics forms and generate matching based on preferences.
 
-##### Team Lead and AR Developer, UBC Emerging Media Lab (Jan 2018 – Apr 2019)
+##### Team Lead and AR Developer, UBC Emerging Media Lab _Jan 2018 – Apr 2019_
 
 - Liaised between 7 developers and a professor to build [Soil TopARgraphy](https://eml.ubc.ca/projects/soil-topargraphy/), an Augmented Reality app for a soil science class, built using Unity, Vuforia, and C#.
 - Project presented at 3 conferences, released on app stores, and is ready to be used by 250+ students.
 
-##### Color Breakdown, Personal Project _(Oct 2018 – May 2020)_
+##### Color Breakdown, Personal Project _Oct 2018 – May 2020_
 
 - Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
 - Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).

@@ -7,15 +7,16 @@ $brand-color: #862D1D;
 $old-brand: #7ebf85;
 
 $body-text-color: #212121;
-$header-bg-color: $brand-color;
-$header-bg-color-secondary: $brand-color;
+$header-bg-color: #532E38;
+$header-bg-color-secondary: $header-bg-color-secondary;
 
 body {
     background: #FFEEC4;
+    color: $body-text-color;
 }
 
 .page-header {
-    background-color: $brand-color;
+    background-color: $header-bg-color;
     background-image: none;
 }
 
@@ -46,13 +47,21 @@ body {
 
 .main-content h5 {
     display: flex;
-    font-size: 1rem;
+    font-size: inherit;
     font-weight: bold;
     color: inherit;
     margin-top: 1rem;
     margin-bottom: 0;
 }
 .main-content h5 em {
-    font-style: normal;
+    font-weight: normal;
     margin-left: auto;
+    margin-right: 1rem;
+}
+
+@media (max-width: 500px) {
+    .industry-logo {
+        width: 40px;
+        height: 40px;
+    }
 }
