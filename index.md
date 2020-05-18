@@ -10,59 +10,76 @@ Feel free to reach out to me, let's chat :)
 
 University of British Columbia, Bachelor of Science in Computer Science, 4th Year (Sep 2015 - May 2021)
 
-### Skills
+-->
 
-Android, Kotlin, Java, Scala, React, JavaScript, HTML/CSS, JSON, SQL, GraphQL, Unix, Git -->
+### Industry
 
-### Relevant Experience
+##### Lyft, Software Developer Intern (June 2020 – July 2020)
 
-**Shopify, Android Developer Intern (May 2019 – Aug 2019)**
+- Will be working on front-end for Lyft’s Progressive Web App for riders in React, Redux, NextJS, TypeScript.
 
-- Served as a project champion to plan, build, and launch WebView remote debugging on Android.
-- Developed a notification system on Android with Kotlin and GraphQL to alert merchants of plugin issues.
+##### Yelp, Android Developer Intern (Jan 2019 – Apr 2019)
+
+- Took ownership of implementation and launch for app-wide feature in the Yelp for Business Owner app.
+- Using Kotlin, Koin, RxJava, built carousels with nested scrolling content to promote major business features.
+- Planned and implemented architecture migration from MVP to MVI for Android alert banner with JUnit tests.
+
+##### Shopify, Android Developer Intern (May 2019 – Aug 2019)
+
+- Planned and implemented the WebView remote debugging feature on Shopify’s Android app. 
+- Developed a notification system on Android with Java, Kotlin, and GraphQL to alert merchants of plugin issues. 
 - Wrote advanced HTML to Android Spannable parser in Kotlin to render nested bulleted list data.
 
-**Hootsuite, Software Developer Intern (Jan 2019 – Apr 2019)**
+##### Hootsuite, Software Developer Intern (Jan 2019 – Apr 2019)
 
 - Added dynamic loading, category assignment, instant search to app store admin page with React, HTML/CSS.
 - Worked with cross-functional teams to launch Hootsuite app store and implemented API endpoints in Scala.
 
-**Royal Bank of Canada, Software Developer Intern (May 2018 – Aug 2018)**
+##### Royal Bank of Canada, Software Developer Intern (May 2018 – Aug 2018)
 
 - Increased efficiency of commodity tax data lookups by 2 months per year with C# and .NET automation.
 - Investigated, improved a 13-year-old system and served as single point of contact for business and QA teams.
 
+##### Google, Google CodeU Mentorship program (Feb 2018 – May 2018)
+
+- Selected to participate in Google CodeU, an invite-only program to be mentored by a Google engineer. 
+- Built a chat app in Java and introduced offline support by caching HTML pages and CSS with JavaScript. 
+
 ### Projects
 
-**Google Chat App, Google CodeU Mentorship program (Feb 2018 – May 2018)**
+##### Founder and Co-president, UBC Women in CS (Sept 2019 - Apr 2020)
 
-- Selected to participate in Google CodeU, an invite-only coding program for students with high potential.
-- Built a chat web app with Java backend in team of 3 under a Google engineer’s mentorship.
-- Introduced offline support by caching HTML pages and CSS with JavaScript using Service Workers.
+- Started [UBC Women in CS club](http://ubcwics.com/), assembling a team of 10 student executives and 3 departmental sponsors, defining the mission and establishing overall infrastructure.
+- Represented the club in monthly department meetings to discuss progress and changes to the Computer Science department. 
+- Executed 4 events throughout the term, such as paint night and board game events, reaching over 90 female CS students at UBC.
 
-**Soil TopARgraphy, UBC Emerging Media Lab (Jan 2018 – Apr 2019)**
+##### Co-Founder, UBC CS Coffee Chat (Sept 2019 - Apr 2020)
+- Matched 150+ lower year to upper year Computer Science students at UBC for monthly coffee chats, providing a chance to ask questions and receive mentorship. 
+- Wrote a Python script to consume CSV data from Qualtrics forms and generate matching based on preferences. 
 
-- Managed 7 developers on one of the first efforts to introduce AR into UBC classrooms, using Unity and C#.
-- Project presented at 3 conferences, released on app stores, and will be used by 250+ students.
+##### Team Lead and AR Developer, UBC Emerging Media Lab (Jan 2018 – Apr 2019)
 
-**Color Breakdown, Personal Project (Oct 2018 – Nov 2018)**
+- Liaised between 7 developers and a professor to build [Soil TopARgraphy](https://eml.ubc.ca/projects/soil-topargraphy/), an Augmented Reality app for a soil science class, built using Unity, Vuforia, and C#.
+- Project presented at 3 conferences, released on app stores, and is ready to be used by 250+ students. 
 
-- Published Android app on Google Play to analyze image colors using Kotlin and internal Palette API.
+##### Color Breakdown, Personal Project (Oct 2018 – May 2020)
 
-### Advocacy
+- Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
+- Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).
 
-- **Workshop Speaker** (Hack the 6ix): Taught Android workshop on Kotlin Coroutines & Retrofit to 50+ students.
-- **Writer**: Researched and wrote a technical blog on Android Spannables, published with 750+ views.
-- **Conference Speaker** (Microsoft Higher Ed Summit): Selected to represent Hootsuite to speak to 100+ participants.
+### Speaking 
 
-### Community Involvement
+- **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech. 
+- **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding. 
+- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on how companies and universities can adapt curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees from 40 companies and 14 post-secondaries on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it! 
 
-- **Founder** (UBC Women in CS): Started a club at my university to create community of women in Computer Science.
-- **Android Tech Lead** (UBC Launch Pad): Liaised with professor and led a team of 5 on app to collect field trip data.
-- **Co-Founder** (UBC CS Coffee Chat): Initiated program to connect lower year to upper year students for mentorship.
+### Awards 
+- **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Justin Trudeau.
+- **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono. 
+- **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership. 
+- **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing. 
+- **Hackathon Winner, Lumohacks 2017** - Built VR scenarios to help patients tackle phobias, built with Unity and C#.
 
-### Awards
-
-- **Hackathon Winner** (Lumohacks 2017): Built VR scenarios to help patients tackle phobias, built with Unity & C#.
-- **IKB Women in Technology Scholarship 2019**: Awarded for academic excellence in Computer Science degree.
-- **BC Tech Scholarship Winner**: Featured in newsletters, magazine and invited to meet Justin Trudeau.
+### Blogs 
+- **"Making Nested Lists with Android Spannables in Kotlin"** - This blog post received 2,000+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
+- **"Advice from Full-timers at Hootsuite to Co-ops"** - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences. 
