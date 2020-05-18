@@ -11,36 +11,72 @@ University of British Columbia, Bachelor of Science in Computer Science, 4th Yea
 
 ### Industry
 
-##### Lyft, Software Developer Intern (June 2020 – July 2020)
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Lyft, Software Developer Intern <em>June 2020 – July 2020</em></h5>
+    <ul>
+      <li>Will be working on front-end for Lyft’s Progressive Web App for riders in React, Redux, NextJS, TypeScript.</li>
+    </ul>
+  </div>
+</div>
 
-- Will be working on front-end for Lyft’s Progressive Web App for riders in React, Redux, NextJS, TypeScript.
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/yelp.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Yelp, Android Developer Intern <em>Jan 2019 – Apr 2019</em></h5>
+    <ul>
+      <li>Took ownership of implementation and launch for app-wide feature in the Yelp for Business Owner app.</li>
+      <li>Using Kotlin, Koin, RxJava, built carousels with nested scrolling content to promote major business features.</li>
+      <li>Planned and implemented architecture migration from MVP to MVI for Android alert banner with JUnit tests.</li>
+    </ul>
+  </div>
+</div>
 
-##### Yelp, Android Developer Intern (Jan 2019 – Apr 2019)
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/shopify.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Shopify, Android Developer Intern <em>May 2019 – Aug 2019</em></h5>
+    <ul>
+      <li>Planned and implemented the WebView remote debugging feature on Shopify’s Android app.</li>
+      <li>Developed a notification system on Android with Java, Kotlin, and GraphQL to alert merchants of plugin issues.</li>
+      <li>Wrote advanced HTML to Android Spannable parser in Kotlin to render nested bulleted list data.</li>
+    </ul>
+  </div>
+</div>
 
-- Took ownership of implementation and launch for app-wide feature in the Yelp for Business Owner app.
-- Using Kotlin, Koin, RxJava, built carousels with nested scrolling content to promote major business features.
-- Planned and implemented architecture migration from MVP to MVI for Android alert banner with JUnit tests.
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/hootsuite.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Hootsuite, Software Developer Intern <em>Jan 2019 – Apr 2019</em></h5>
+    <ul>
+      <li>Added dynamic loading, category assignment, instant search to app store admin page with React, HTML/CSS.</li>
+      <li>Worked with cross-functional teams to launch Hootsuite app store and implemented API endpoints in Scala.</li>
+    </ul>
+  </div>
+</div>
 
-##### Shopify, Android Developer Intern (May 2019 – Aug 2019)
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/rbc.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Royal Bank of Canada, Software Developer Intern <em>May 2018 – Aug 2018</em></h5>
+    <ul>
+      <li>Increased efficiency of commodity tax data lookups by 2 months per year with C# and .NET automation.</li>
+      <li>Investigated, improved a 13-year-old system and served as single point of contact for business and QA teams.</li>
+    </ul>
+  </div>
+</div>
 
-- Planned and implemented the WebView remote debugging feature on Shopify’s Android app.
-- Developed a notification system on Android with Java, Kotlin, and GraphQL to alert merchants of plugin issues.
-- Wrote advanced HTML to Android Spannable parser in Kotlin to render nested bulleted list data.
-
-##### Hootsuite, Software Developer Intern (Jan 2019 – Apr 2019)
-
-- Added dynamic loading, category assignment, instant search to app store admin page with React, HTML/CSS.
-- Worked with cross-functional teams to launch Hootsuite app store and implemented API endpoints in Scala.
-
-##### Royal Bank of Canada, Software Developer Intern (May 2018 – Aug 2018)
-
-- Increased efficiency of commodity tax data lookups by 2 months per year with C# and .NET automation.
-- Investigated, improved a 13-year-old system and served as single point of contact for business and QA teams.
-
-##### Google, Google CodeU Mentorship program (Feb 2018 – May 2018)
-
-- Selected to participate in Google CodeU, an invite-only program to be mentored by a Google engineer.
-- Built a chat app in Java and introduced offline support by caching HTML pages and CSS with JavaScript.
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/google.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Google, Google CodeU Mentorship program <em>Feb 2018 – May 2018</em></h5>
+    <ul>
+      <li>Selected to participate in Google CodeU, an invite-only program to be mentored by a Google engineer.</li>
+      <li>Built a chat app in Java and introduced offline support by caching HTML pages and CSS with JavaScript.</li>
+    </ul>
+  </div>
+</div>
 
 ### Projects
 
@@ -60,7 +96,7 @@ University of British Columbia, Bachelor of Science in Computer Science, 4th Yea
 - Liaised between 7 developers and a professor to build [Soil TopARgraphy](https://eml.ubc.ca/projects/soil-topargraphy/), an Augmented Reality app for a soil science class, built using Unity, Vuforia, and C#.
 - Project presented at 3 conferences, released on app stores, and is ready to be used by 250+ students.
 
-##### Color Breakdown, Personal Project (Oct 2018 – May 2020)
+##### Color Breakdown, Personal Project _(Oct 2018 – May 2020)_
 
 - Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
 - Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).
