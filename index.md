@@ -7,7 +7,9 @@ Hello there! My name is Daphne.
 
 ### Education
 
-University of British Columbia, Bachelor of Science in Computer Science, 4th Year (Sep 2015 - May 2021)
+**University of British Columbia**, \
+Bachelor of Science in Computer Science, \
+4th Year _(Sep 2015 - May 2021)_
 
 ### Industry
 
