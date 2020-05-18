@@ -1,16 +1,13 @@
 Hello there! My name is Daphne.
-Feel free to reach out to me, let's chat :)
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Resume: [PDF](resume.pdf)
 - Github: [github.com/daphliu](https://github.com/daphliu)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 
-<!-- ### Education
+### Education
 
 University of British Columbia, Bachelor of Science in Computer Science, 4th Year (Sep 2015 - May 2021)
-
--->
 
 ### Industry
 
@@ -71,7 +68,7 @@ University of British Columbia, Bachelor of Science in Computer Science, 4th Yea
 
 - **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech. 
 - **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding. 
-- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on how companies and universities can adapt curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees from 40 companies and 14 post-secondaries on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it! 
+- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it! 
 
 ### Awards 
 - **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Justin Trudeau.
