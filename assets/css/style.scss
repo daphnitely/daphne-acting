@@ -56,12 +56,31 @@ body {
 .main-content h5 em {
     font-weight: normal;
     margin-left: auto;
-    margin-right: 1rem;
+}
+
+.float-images {
+    float: right;
+    margin-left: 1rem;
 }
 
 @media (max-width: 500px) {
     .industry-logo {
         width: 40px;
         height: 40px;
+    }
+    .main-content h5 {
+        flex-direction: column;
+    }
+    .main-content h5 em {
+        margin-left: 0;
+    }
+    .float-images {
+        float: none;
+        margin-left: 0;
+        text-align: center;
+    }
+    .float-images img {
+        height: 100px;
+        width: auto;
     }
 }
