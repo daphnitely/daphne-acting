@@ -7,9 +7,8 @@ Hello there! My name is Daphne.
 
 ### Education
 
-**University of British Columbia**, <br>
-Bachelor of Science in Computer Science, <br>
-4th Year _(Sep 2015 - May 2021)_
+##### University of British Columbia _Sep 2015 - May 2021_
+Bachelor of Science in Computer Science, 4th Year
 
 ### Industry
 
@@ -126,6 +125,6 @@ Bachelor of Science in Computer Science, <br>
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
 - **Hackathon Winner, Lumohacks 2017** - Built VR scenarios to help patients tackle phobias, built with Unity and C#.
 
-### Blogs
+### Blog
 - **"Making Nested Lists with Android Spannables in Kotlin"** - This blog post received 2,000+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - **"Advice from Full-timers at Hootsuite to Co-ops"** - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
