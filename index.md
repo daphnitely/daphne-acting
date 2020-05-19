@@ -123,7 +123,9 @@ Bachelor of Science in Computer Science, 4th Year
 - **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono.
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
-- **Hackathon Winner, Lumohacks 2017** - Built VR scenarios to help patients tackle phobias, built with Unity and C#.
+- **1st Place, Lumohacks 2017** - 1st place out of 300 participants. Built VR scenarios to help patients tackle phobias with Unity and C#.
+- **Finalist, nwHacks 2018** - Finalist out of 800+ participants. Devised Android app around NFC functionality to reinvent museum experience. 
+- **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. I presented our project in front of 2,500+ participants. 
 
 ### Blog
 - **"Making Nested Lists with Android Spannables in Kotlin"** - This blog post received 2,000+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
