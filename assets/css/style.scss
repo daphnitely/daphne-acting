@@ -17,11 +17,28 @@ body {
 
 .page-header {
     background-color: $header-bg-color;
-    background-image: none;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-bottom: 20px solid $header-bg-color;
+    height: 200px;
+    padding: 0;
+}
+
+.profile-header {
+    max-width: 64rem;
+    margin: 0 auto;
+}
+.profile-image {
+    float: left;
+    border-radius: 50%;
+    margin-top: -125px;
+    margin-right: 2rem;
 }
 
 .project-name {
     text-transform: uppercase;
+    padding-top: 1rem;
 }
 
 .industry-item {
@@ -31,6 +48,9 @@ body {
     margin-right: 1rem;
 }
 
+.main-content {
+    clear: both;
+}
 .main-content h3 {
     text-align: center;
     font-size: 2rem;
