@@ -13,14 +13,14 @@
 
     </section>
 
-    <section class="main-content">
-      <header class="profile-header">
-        <img class="profile-image" alt="Portrait of Daphne" height="300" width="300"
-          src="assets/images/face-300w.jpg" srcset="assets/images/face-300w.jpg 300w, assets/images/face-600w 600w">
-        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      </header>
+    <header class="profile-header">
+      <img class="profile-image" alt="Portrait of Daphne" height="300" width="300"
+        src="assets/images/face-300w.jpg" srcset="assets/images/face-300w.jpg 300w, assets/images/face-600w.jpg 600w">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </header>
 
+    <section class="main-content">
       {{ content }}
 
       <footer class="site-footer">
