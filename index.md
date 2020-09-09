@@ -1,9 +1,10 @@
-Hello there! My name is Daphne.
+Hello there, My name is Daphne! 
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Resume: [PDF](resume.pdf)
 - Github: [github.com/daphliu](https://github.com/daphliu)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
+- Twitter: [https://twitter.com/DevDaphne](https://twitter.com/DevDaphne)
 
 ### Education
 
@@ -17,7 +18,9 @@ Bachelor of Science in Computer Science, 4th Year
   <div class="industry-info">
     <h5>Lyft, Software Developer Intern <em>June 2020 – July 2020</em></h5>
     <ul>
-      <li>Will be working on front-end for Lyft’s Progressive Web App for riders in React, Redux, NextJS, TypeScript.</li>
+      <li>Built coupon, shortcuts, payment methods, and dark mode with React and TypeScript for Lyft on the web.</li>
+      <li>Added support for A/B testing and created guidelines to set up experiments and control roll-out.</li>
+      <li>Selected as one of the 4 out of 180 interns to speak to 250 students on the Intern AMA Webinar.</li>
     </ul>
   </div>
 </div>
@@ -108,6 +111,7 @@ Bachelor of Science in Computer Science, 4th Year
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
 
+- **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step. 
 - **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech.
 - **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding.
 - **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it!
@@ -128,5 +132,6 @@ Bachelor of Science in Computer Science, 4th Year
 - **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. I presented our project in front of 2,500+ participants. 
 
 ### Blog
-- [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,000+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
+- [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) -  I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
+- [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
