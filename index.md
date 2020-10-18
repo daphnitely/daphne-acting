@@ -28,7 +28,7 @@ Bachelor of Science in Computer Science, 4th Year
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/yelp.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Yelp, Android Developer Intern <em>Jan 2019 – Apr 2019</em></h5>
+    <h5>Yelp, Android Developer Intern <em>Jan 2020 – Apr 2020</em></h5>
     <ul>
       <li>Took ownership of implementation and launch for app-wide feature in the Yelp for Business Owner app.</li>
       <li>Using Kotlin, Koin, RxJava, built carousels with nested scrolling content to promote major business features.</li>
