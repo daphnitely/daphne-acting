@@ -1,17 +1,25 @@
-Hello there, My name is Daphne! 
+Hello there, My name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Resume: [PDF](resume.pdf)
-- Github: [github.com/daphliu](https://github.com/daphliu)
+- Github: [github.com/daphnitely](https://github.com/daphnitely)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
-- Twitter: [https://twitter.com/DevDaphne](https://twitter.com/DevDaphne)
-
-### Education
-
-##### University of British Columbia _Sep 2015 - May 2021_
-Bachelor of Science in Computer Science, 4th Year
+- Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
 
 ### Industry
+
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Lyft, Software Engineer <em>Aug 2021 – Present</em></h5>
+    <ul>
+      <li>Frontend Engineer on RiderWeb & Design Systems .</li>
+      <li>Builds and maintains features in Lyft's web app (ride.lyft.com) such as scheduled rides and notifications.</li>
+      <li>Makes reusable web UI components, with a focus on accessibility.</li>
+      <li>• Co-organizer and an em-cee of Frontend All Hands.</li>
+    </ul>
+  </div>
+</div>
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
@@ -82,6 +90,17 @@ Bachelor of Science in Computer Science, 4th Year
   </div>
 </div>
 
+### Speaking
+
+- **Speaker, Cascadia JS Conference** - CascadiaJS has been the premier JavaScript and web conference in the Pacific Northwest. My fiance and I did a talk on ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) to share our favorite home automation projects to make cooking, laundry, & calendar management easier. The projects were built with NodeJS, Notion/Trello APIs and IoT.
+<div class="float-images">
+  <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
+</div>
+- **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step.
+- **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech.
+- **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding.
+- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it!
+
 ### Projects
 
 ##### Founder and Co-president, UBC Women in CS _Sept 2019 - Apr 2020_
@@ -105,16 +124,11 @@ Bachelor of Science in Computer Science, 4th Year
 - Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
 - Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).
 
-### Speaking
+### Education
 
-<div class="float-images">
-  <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
-</div>
+##### University of British Columbia _Sep 2015 - May 2021_
 
-- **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step. 
-- **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech.
-- **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding.
-- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it!
+Bachelor of Science in Computer Science
 
 ### Awards
 
@@ -128,10 +142,11 @@ Bachelor of Science in Computer Science, 4th Year
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
 - **1st Place, Lumohacks 2017** - 1st place out of 300 participants. Built VR scenarios to help patients tackle phobias with Unity and C#.
-- **Finalist, nwHacks 2018** - Finalist out of 800+ participants. Devised Android app around NFC functionality to reinvent museum experience. 
-- **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. I presented our project in front of 2,500+ participants. 
+- **Finalist, nwHacks 2018** - Finalist out of 800+ participants. Devised Android app around NFC functionality to reinvent museum experience.
+- **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. I presented our project in front of 2,500+ participants.
 
 ### Blog
-- [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) -  I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
+
+- [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) - I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
 - [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
