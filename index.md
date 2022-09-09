@@ -97,10 +97,11 @@ Hello there, my name is Daphne!
 ### Speaking
 
 - **Speaker, CascadiaJS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how we make cooking, laundry, & calendar management easier using NodeJS, Notion/Trello APIs and IoT. ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) was both technical and had a comedic flair.
-<div class="float-images">
-  <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
-</div>
-- **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step.
+- <div class="float-images">
+    <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
+  </div>
+
+  **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step.
 - **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech.
 - **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding.
 - **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it!
@@ -130,12 +131,12 @@ Hello there, my name is Daphne!
 
 ### Awards
 
-<div class="float-images">
-  <img src="assets/images/trudeau.jpg" alt="Daphne meeting Prime Minister Justin Trudeau" width="112" height="150">
-  <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
-</div>
-
-- **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
+- <div class="float-images">
+    <img src="assets/images/trudeau.jpg" alt="Daphne meeting Prime Minister Justin Trudeau" width="112" height="150">
+    <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
+  </div>
+  
+  **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
 - **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono.
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
