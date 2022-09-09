@@ -2,21 +2,22 @@ Hello there, My name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Resume: [PDF](resume.pdf)
+- Location: Seattle, WA
 - Github: [github.com/daphnitely](https://github.com/daphnitely)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
 
-### Industry
+### Work
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
     <h5>Lyft, Software Engineer <em>Aug 2021 – Present</em></h5>
     <ul>
-      <li>Frontend Engineer on RiderWeb & Design Systems .</li>
+      <li>Frontend Engineer on RiderWeb & Design Systems.</li>
       <li>Builds and maintains features in Lyft's web app (ride.lyft.com) such as scheduled rides and notifications.</li>
       <li>Makes reusable web UI components, with a focus on accessibility.</li>
-      <li>• Co-organizer and an em-cee of Frontend All Hands.</li>
+      <li>Co-organizer and em-cee of Frontend All Hands.</li>
     </ul>
   </div>
 </div>
@@ -92,7 +93,7 @@ Hello there, My name is Daphne!
 
 ### Speaking
 
-- **Speaker, Cascadia JS Conference** - CascadiaJS has been the premier JavaScript and web conference in the Pacific Northwest. My fiance and I did a talk on ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) to share our favorite home automation projects to make cooking, laundry, & calendar management easier. The projects were built with NodeJS, Notion/Trello APIs and IoT.
+- **Speaker, Cascadia JS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how with NodeJS, Notion/Trello APIs and IoT make our cooking, laundry, & calendar management easier. ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) was both technical and had a comedic flair.
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
@@ -124,12 +125,6 @@ Hello there, My name is Daphne!
 - Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
 - Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).
 
-### Education
-
-##### University of British Columbia _Sep 2015 - May 2021_
-
-Bachelor of Science in Computer Science
-
 ### Awards
 
 <div class="float-images">
@@ -150,3 +145,9 @@ Bachelor of Science in Computer Science
 - [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) - I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
 - [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
+
+### Education
+
+##### University of British Columbia _Sep 2015 - May 2021_
+
+Bachelor of Science in Computer Science
