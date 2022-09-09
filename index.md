@@ -1,3 +1,7 @@
+---
+layout: default.liquid
+---
+
 Hello there, my name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
