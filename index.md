@@ -1,4 +1,4 @@
-Hello there, My name is Daphne!
+Hello there, my name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Resume: [PDF](resume.pdf)
@@ -14,9 +14,8 @@ Hello there, My name is Daphne!
   <div class="industry-info">
     <h5>Lyft, Software Engineer <em>Aug 2021 – Present</em></h5>
     <ul>
-      <li>Frontend Engineer on RiderWeb & Design Systems.</li>
-      <li>Builds and maintains features in Lyft's web app (ride.lyft.com) such as scheduled rides and notifications.</li>
-      <li>Makes reusable web UI components, with a focus on accessibility.</li>
+      <li>Builds and maintains features in Lyft's web app (ride.lyft.com), such as scheduled rides and notifications.</li>
+      <li>Makes reusable and accessible web UI components, as a part of Design Systems team.</li>
       <li>Co-organizer and em-cee of Frontend All Hands.</li>
     </ul>
   </div>
@@ -93,7 +92,7 @@ Hello there, My name is Daphne!
 
 ### Speaking
 
-- **Speaker, Cascadia JS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how with NodeJS, Notion/Trello APIs and IoT make our cooking, laundry, & calendar management easier. ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) was both technical and had a comedic flair.
+- **Speaker, CascadiaJS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how we make cooking, laundry, & calendar management easier using NodeJS, Notion/Trello APIs and IoT. ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) was both technical and had a comedic flair.
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
