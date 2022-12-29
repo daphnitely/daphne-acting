@@ -1,11 +1,9 @@
 Hello there, my name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
-- Resume: [PDF](resume.pdf)
-- Location: Seattle, WA
-- Github: [github.com/daphnitely](https://github.com/daphnitely)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
+- Location: Seattle, WA
 
 ### Work
 
@@ -14,8 +12,8 @@ Hello there, my name is Daphne!
   <div class="industry-info">
     <h5>Lyft, Software Engineer <em>Aug 2021 – Present</em></h5>
     <ul>
-      <li>Builds and maintains features in Lyft's web app (ride.lyft.com), such as scheduled rides and notifications.</li>
-      <li>Makes reusable and accessible web UI components, as a part of Design Systems team.</li>
+      <li>Builds and maintains features in Lyft's web app (ride.lyft.com), such as shared rides, scheduled rides and notifications.</li>
+      <li>Makes reusable and accessible web UI components as a part of Design Systems team.</li>
       <li>Co-organizer and em-cee of Frontend All Hands.</li>
     </ul>
   </div>
@@ -92,7 +90,7 @@ Hello there, my name is Daphne!
 
 ### Speaking
 
-- **Speaker, CascadiaJS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how we make cooking, laundry, & calendar management easier using NodeJS, Notion/Trello APIs and IoT. ["How we Automated our Relationship"](https://www.twitch.tv/videos/1578855046?t=02h49m07s) was both technical and had a comedic flair.
+- **Speaker, CascadiaJS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how we make cooking, laundry, & calendar management easier using NodeJS, Notion/Trello APIs and IoT. ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) was both technical and had a comedic flair.
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
@@ -144,6 +142,14 @@ Hello there, my name is Daphne!
 - [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) - I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
 - [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
+
+### Random fun facts
+
+- I'm a improv performer at Jet City Improv in Seattle.
+- I've been roasted on stage at Socially Inept tech toast show.
+- I used to be a pharmacy assistant.
+- I've won a genetic engineering competition ([iGEM](https://2015.igem.org/Team:TAS_Taipei)) in high school.
+- I've won a grape stomping competition.
 
 ### Education
 
