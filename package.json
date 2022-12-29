@@ -1,0 +1,26 @@
+{
+  "name": "daphnitely.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daphnitely/daphnitely.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daphnitely/daphnitely.github.io/issues"
+  },
+  "homepage": "https://github.com/daphnitely/daphnitely.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}

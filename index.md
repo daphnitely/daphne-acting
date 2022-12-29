@@ -1,3 +1,7 @@
+---
+layout: default.liquid
+---
+
 Hello there, my name is Daphne!
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
@@ -124,12 +128,13 @@ Hello there, my name is Daphne!
 
 ### Awards
 
-<div class="float-images">
-  <img src="assets/images/trudeau.jpg" alt="Daphne meeting Prime Minister Justin Trudeau" width="112" height="150">
-  <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
-</div>
+- <div class="float-images">
+    <img src="assets/images/trudeau.jpg" alt="Daphne meeting Prime Minister Justin Trudeau" width="112" height="150">
+    <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
+  </div>
 
-- **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
+  **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
+
 - **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono.
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
