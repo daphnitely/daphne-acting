@@ -2,7 +2,7 @@
 layout: default.liquid
 ---
 
-Hello there, my name is Daphne!
+Frontend engineer with 5 years of experience building UI components, shipping web and mobile apps, and leading company all-hands.
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
@@ -14,11 +14,25 @@ Hello there, my name is Daphne!
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Lyft, Software Engineer <em>Aug 2021 – Present</em></h5>
+    <h5>Lyft, Software Engineer II <em>Jan 2021 – Apr 9</em></h5>
     <ul>
-      <li>Builds and maintains features in Lyft's web app (ride.lyft.com), such as shared rides, scheduled rides and notifications.</li>
-      <li>Makes reusable and accessible web UI components as a part of Design Systems team.</li>
-      <li>Co-organizer and em-cee of Frontend All Hands.</li>
+      <li>Led cross-functional projects in Lyft’s web app, enabling shared rides, notifications on web, and autofill sms code.</li>
+      <li>Transitioned to be the only full-time web eng on Design Systems to make UI components in React, TypeScript, and
+HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across all of Lyft.</li>
+      <li>Mentored summer intern to pair program on technical concepts and assist in project management.</li>
+      <li>Lead monthly Frontend All-hands, breaking down knowledge silos and encourages company-wide adoption of latest tools.</li> 
+    </ul>
+  </div>
+</div>
+
+<div class="industry-item">
+  <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
+  <div class="industry-info">
+    <h5>Copysmithm Product Manager Intern <em>Jan 2021 – Apr 9</em></h5>
+    <ul>
+      <li>First Product Manager in a 15-people start-up, acting as a glue between teams & introduced product release processes.</li>
+      <li>Led projects to revamp pricing structure and develop long-term roadmap through customer interviews and analytics.</li>
+      <li>Increased MRR by 30%, acquired 61% new customers, and supported the company through acquisition.</li> 
     </ul>
   </div>
 </div>
