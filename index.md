@@ -8,13 +8,14 @@ Frontend engineer with 5 years of experience building UI components, shipping we
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
 - Location: Seattle, WA
+- Resume: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
 
 ### Work
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Lyft, Software Engineer II <em>Jan 2021 – Apr 9</em></h5>
+    <h5>Lyft, Software Engineer II <em>Aug 2021 – Present</em></h5>
     <ul>
       <li>Led cross-functional projects in Lyft’s web app, enabling shared rides, notifications on web, and autofill sms code.</li>
       <li>Transitioned to be the only full-time web eng on Design Systems to make UI components in React, TypeScript, and
@@ -26,9 +27,9 @@ HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across a
 </div>
 
 <div class="industry-item">
-  <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
+  <img class="industry-logo" src="assets/logos/copysmith.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Copysmithm Product Manager Intern <em>Jan 2021 – Apr 9</em></h5>
+    <h5>Copysmith, Product Manager Intern <em>Jan 2021 – Apr 2021</em></h5>
     <ul>
       <li>First Product Manager in a 15-people start-up, acting as a glue between teams & introduced product release processes.</li>
       <li>Led projects to revamp pricing structure and develop long-term roadmap through customer interviews and analytics.</li>
