@@ -2,7 +2,7 @@
 layout: default.liquid
 ---
 
-Frontend engineer with 5 years of experience building UI components, shipping web and mobile apps, and leading company all-hands.
+Frontend engineer with experience in 6 companies. Proactively solves vague problems by wearing many hats. Built accessible UI components libraries and led teams on 0 to 1 projects. Driven, entrepreneurial, product-minded, and customer-focused.
 
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
@@ -10,18 +10,28 @@ Frontend engineer with 5 years of experience building UI components, shipping we
 - Location: Seattle, WA
 - Resume: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
 
+
+### Skills 
+
+TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL, Unix, Git
+
+
 ### Work
 
 <div class="industry-item">
   <img class="industry-logo" src="assets/logos/lyft.svg" alt="" width="80" height="80">
   <div class="industry-info">
-    <h5>Lyft, Software Engineer II <em>Aug 2021 – Present</em></h5>
+    <h5>Lyft, Frontend Engineer II <em>Aug 2021 – Apr 2023</em></h5>
     <ul>
-      <li>Led cross-functional projects in Lyft’s web app, enabling shared rides, notifications on web, and autofill sms code.</li>
-      <li>Transitioned to be the only full-time web eng on Design Systems to make UI components in React, TypeScript, and
-HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across all of Lyft.</li>
-      <li>Mentored summer intern to pair program on technical concepts and assist in project management.</li>
-      <li>Lead monthly Frontend All-hands, breaking down knowledge silos and encourages company-wide adoption of latest tools.</li> 
+      <li>On Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
+      <li>Unlocked a $10M government contract by elevating accessibility in all 89 products to meet industry standard (WCAG 2.0).</li>
+      <li>Collaborated cross-functionally with 3 designers, 6 senior/staff engs to plan roadmap & ensure cross-platform consistency.</li>
+      <li>Led major release of new UI component library version by devising migration plan focused on resilience and adopted type safety across the board. Wrote thorough documentation and rallied a group of early adopters for safe rollout.</li> 
+      <li>Led shared rides in the web app, gathered requirements, broke down roadmap, ran experiments, and drove features to roll-out, yielding projected annualized impact of $600K profit and $1.5-4.6M bookings.</li> 
+      <li>Led notifications in web to increase promotion and reminder capabilities beyond mobile, reaching 27K new users per year.</li>
+      <li>Ran monthly Frontend All-hands, breaking down knowledge silos and encouraged company-wide adoption of latest tools.</li>
+      <li>Unblocked projects by proactively learning backend for notifications and autofill SMS and Android for gift card.</li>
+      <li>Introduced scheduled rides in the web app, leading to increase of 19.6K+ rides and $530K booking per year.</li>
     </ul>
   </div>
 </div>
@@ -31,8 +41,7 @@ HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across a
   <div class="industry-info">
     <h5>Copysmith, Product Manager Intern <em>Jan 2021 – Apr 2021</em></h5>
     <ul>
-      <li>First Product Manager in a 15-people start-up, acting as a glue between teams & introduced product release processes.</li>
-      <li>Led projects to revamp pricing structure and develop long-term roadmap through customer interviews and analytics.</li>
+      <li>First Product Manager in a 15-people start-up, acting as a glue between teams shaped product roadmap.</li> 
       <li>Increased MRR by 30%, acquired 61% new customers, and supported the company through acquisition.</li> 
     </ul>
   </div>
@@ -121,6 +130,11 @@ HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across a
 
 ### Projects
 
+##### Co-founder, BobaBot _Sept 2020 - Apr 2021_
+
+- Came up with idea for a bubble tea machine startup for a class in a team of 6, contributing to business and marketing plans.
+- Presented and won $5K in a pitching competition, participated in an incubator & received a 50-100k offer from an investor.
+
 ##### Founder and Co-president, UBC Women in CS _Sept 2019 - Apr 2020_
 
 - Started [UBC Women in CS club](http://ubcwics.com/), assembling a team of 10 student executives and 3 departmental sponsors, defining the mission and establishing overall infrastructure.
@@ -163,16 +177,17 @@ HTML/CSS, holding Lyft to WCAG 2.0 standard and saving engineering time across a
 - [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
 - [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
 
-### Random fun facts
-
-- I'm a improv performer at Jet City Improv in Seattle.
-- I've been roasted on stage at Socially Inept tech toast show.
-- I used to be a pharmacy assistant.
-- I've won a genetic engineering competition ([iGEM](https://2015.igem.org/Team:TAS_Taipei)) in high school.
-- I've won a grape stomping competition.
-
 ### Education
 
 ##### University of British Columbia _Sep 2015 - May 2021_
 
 Bachelor of Science in Computer Science
+
+
+### Random fun facts
+_Since you made it this far!_
+- I'm a improv performer and sketch writer in Seattle. 
+- I've been roasted on stage at Socially Inept tech toast show.
+- I worked as a pharmacy assistant before.
+- I've won a genetic engineering competition ([iGEM](https://2015.igem.org/Team:TAS_Taipei)) in high school.
+- I've won a grape stomping competition.
