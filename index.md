@@ -130,7 +130,7 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 ### Workshop 
 - **Speaker, Lyft** – Led an accessibility workshop to onboard my team to contribute to improving accessibility in our web app.
-- **Speaker, Hack the 6ix** - Taught an (Android workshop)[https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing] at Toronto’s largest summer hackathon to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit, and Google Maps API through live-coding.
+- **Speaker, Hack the 6ix** - Taught an [Android workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) at Toronto’s largest summer hackathon to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit, and Google Maps API through live-coding.
 - **Speaker, Emerging Media Lab** – Taught an 3D-modelling workshop in Unity and Blender when working at an AR/VR lab.
 - **Volunteer - GIRLsmarts4tech** – Taught grade 7 girls building a simple website in JavaScript and HTML in a day camp.
 
@@ -138,7 +138,7 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 ##### Co-founder, BobaBot _Sept 2020 - Apr 2021_
 
-- Came up with the idea for a bubble tea machine startup for a class in a team of 6, contributing to business and marketing plans.
+- Came up with the idea for a [bubble tea machine startup](https://bobabot.ca/) for a class in a team of 6, contributing to business and marketing plans.
 - Presented and won $5K in a pitching competition, participated in an incubator & received a 50-100k offer from an investor.
 
 ##### Founder and Co-president, UBC Women in CS _Sept 2019 - Apr 2020_
@@ -175,8 +175,8 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
 </div>
 
-- **UBC 2030 Competition** - Produced a [short pitch video](https://www.youtube.com/watch?v=iV4pgNac_4Q) for a sustainability competition at UBC and was selected as a winner amongst 40 entries.
 - **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
+- **UBC 2030 Competition** - Produced a [short pitch video](https://www.youtube.com/watch?v=iV4pgNac_4Q) for a sustainability competition at UBC and was selected as a winner amongst 40 entries.
 - **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono.
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
@@ -192,7 +192,7 @@ Bachelor of Science in Computer Science
 
 
 ### Random fun facts
-- I'm a improv performer and sketch writer in Seattle. 
+- I'm a improv performer and sketch writer. 
 - I've been roasted on stage at a tech toast show.
 - I've won a genetic engineering competition in high school.
 - I've won a grape stomping competition.
