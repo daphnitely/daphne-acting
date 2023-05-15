@@ -7,7 +7,6 @@ Frontend engineer with experience in 6 companies. Proactively solves vague probl
 - Email: [daphne.liu97@gmail.com](mailto:daphne.liu97@gmail.com)
 - Linkedin: [linkedin.com/in/daphliu/](https://www.linkedin.com/in/daphliu/)
 - Twitter: [https://twitter.com/thebetterdaphne](https://twitter.com/thebetterdaphne)
-- Location: Seattle, WA
 - Resume: [https://daphneliu.com/resume.pdf](https://daphneliu.com/resume.pdf)
 
 
@@ -23,15 +22,15 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <div class="industry-info">
     <h5>Lyft, Frontend Engineer II <em>Aug 2021 – Apr 2023</em></h5>
     <ul>
-      <li>On Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
+      <li>On the Design systems team, built UI component library in React, TypeScript, and HTML/CSS used by 100+ frontend engineers.</li>
       <li>Unlocked a $10M government contract by elevating accessibility in all 89 products to meet industry standard (WCAG 2.0).</li>
       <li>Collaborated cross-functionally with 3 designers, 6 senior/staff engs to plan roadmap & ensure cross-platform consistency.</li>
       <li>Led major release of new UI component library version by devising migration plan focused on resilience and adopted type safety across the board. Wrote thorough documentation and rallied a group of early adopters for safe rollout.</li> 
       <li>Led shared rides in the web app, gathered requirements, broke down roadmap, ran experiments, and drove features to roll-out, yielding projected annualized impact of $600K profit and $1.5-4.6M bookings.</li> 
       <li>Led notifications in web to increase promotion and reminder capabilities beyond mobile, reaching 27K new users per year.</li>
       <li>Ran monthly Frontend All-hands, breaking down knowledge silos and encouraged company-wide adoption of latest tools.</li>
-      <li>Unblocked projects by proactively learning backend for notifications and autofill SMS and Android for gift card.</li>
-      <li>Introduced scheduled rides in the web app, leading to increase of 19.6K+ rides and $530K booking per year.</li>
+      <li>Unblocked projects by proactively learning backend for notifications and autofill SMS and Android for gift cards.</li>
+      <li>Introduced scheduled rides in the web app, leading to an increase of 19.6K+ rides and $530K booking per year.</li>
     </ul>
   </div>
 </div>
@@ -64,7 +63,7 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <div class="industry-info">
     <h5>Yelp, Android Developer Intern <em>Jan 2020 – Apr 2020</em></h5>
     <ul>
-      <li>Took ownership of implementation and launch for app-wide feature in the Yelp for Business Owner app.</li>
+      <li>Took ownership of implementation and launch for app-wide features in the Yelp for Business Owner app.</li>
       <li>Using Kotlin, Koin, RxJava, built carousels with nested scrolling content to promote major business features.</li>
       <li>Planned and implemented architecture migration from MVP to MVI for Android alert banner with JUnit tests.</li>
     </ul>
@@ -100,7 +99,7 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
     <h5>Royal Bank of Canada, Software Developer Intern <em>May 2018 – Aug 2018</em></h5>
     <ul>
       <li>Increased efficiency of commodity tax data lookups by 2 months per year with C# and .NET automation.</li>
-      <li>Investigated, improved a 13-year-old system and served as single point of contact for business and QA teams.</li>
+      <li>Investigated, improved a 13-year-old system and served as a single point of contact for business and QA teams.</li>
     </ul>
   </div>
 </div>
@@ -118,21 +117,28 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 
 ### Speaking
 
-- **Speaker, CascadiaJS Conference** - CascadiaJS is a JavaScript and web conference in the Pacific Northwest. My fiance and I shared how we make cooking, laundry, & calendar management easier using NodeJS, Notion/Trello APIs and IoT. ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) was both technical and had a comedic flair.
+- **Speaker, CascadiaJS Conference** - ["How we Automated our Relationship"](https://youtu.be/Zxe7bDZweoI?t=76) - A technical and comedic talk on how my fiancé and I maintain our relationship by automating cooking, laundry, and calendar using NodeJS, Notion/Trello APIs and IoT, in front 250+ attendees in both conferences.
 <div class="float-images">
   <img src="assets/images/superposition.jpg" alt="Daphne speaking on panel at Superposition" width="225" height="150">
 </div>
 
-- **Speaker, ACM Richard Tapia Conference** - Tapia Conference is a conference designed to promote diversity, connect ~2000 students, faculty, researchers, and professionals from all backgrounds. My co-speaker and I facilitated a workshop called ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) to break down the process of coffee chats for participants to approach it step-by-step.
-- **Panelist, Superposition IV** - Superposition IV is the largest 24-hour hackathon for high school and college women in the Bay Area, hosted at the Uber office. I spoke on a panel to 220+ students answering questions about my experiences and and sharing advice to inspire the next generation of women in tech.
-- **Workshop Speaker, Hack the 6ix** - Hack the 6ix is Toronto’s largest summer hackathon. I planned and taught an [1-hour workshop](https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing) to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit. I demonstrated how to make a simple UI and make network calls to Google Maps API through live-coding.
-- **Conference Panelist, Microsoft Higher Education Summit** - The Microsoft Higher Education Summit is a discussion on adapting curriculum, re-skilling and internships to the growing needs of tech. I was selected by Hootsuite to speak on a panel to 150+ attendees on the changes I'm hoping to see in classes and internships. I shared my views about imposter syndrome and people [tweeted](https://twitter.com/Kristin__Wilkes/status/1105197977830809600) about it!
+- **Speaker, ACM Richard Tapia Conference** -  ["Fueling Your Career With Coffee Chats"](https://tapiaconference.cmd-it.org/attend/presentation/?id=ind_pan115&sess=sess192) - Encouraged and taught 100+ underrepresented students to start networking in the tech industry.
+- **Panelist, Superposition IV** - Spoke on a panel to 220+ high school students at a hackathon answering questions about my experiences and sharing advice to inspire the next generation of women in tech.
+- **Panelist, Microsoft Higher Education Summit** - Spoke on a panel to 150+ educators and university recruiters my experience between internships and university and proposed changes to classroom curriculum and internship structures.
+- **Emcee, Computer Science Orientation panel** – Selected by university to host a panel discussion between 5 club presidents during first-week orientation to help first year students decide what clubs to join.
+- **Emcee, Diversity in Computer Science Panel** – Hosted a panel discussion between 5 industry professionals and led Q&A for underrepresented groups to ask about their experience as women in tech industry.
+
+### Workshop 
+- **Speaker, Lyft** – Led an accessibility workshop to onboard my team to contribute to improving accessibility in our web app.
+- **Speaker, Hack the 6ix** - Taught an (Android workshop)[https://docs.google.com/presentation/d/13ctfuE2er8tIpMJBbsziaO-C1yIYmb5Gcf_QJ8IdyBA/edit?usp=sharing] at Toronto’s largest summer hackathon to 50+ students on making an Android app using Kotlin, Coroutines, Retrofit, and Google Maps API through live-coding.
+- **Speaker, Emerging Media Lab** – Taught an 3D-modelling workshop in Unity and Blender when working at an AR/VR lab.
+- **Volunteer - GIRLsmarts4tech** – Taught grade 7 girls building a simple website in JavaScript and HTML in a day camp.
 
 ### Projects
 
 ##### Co-founder, BobaBot _Sept 2020 - Apr 2021_
 
-- Came up with idea for a bubble tea machine startup for a class in a team of 6, contributing to business and marketing plans.
+- Came up with the idea for a bubble tea machine startup for a class in a team of 6, contributing to business and marketing plans.
 - Presented and won $5K in a pitching competition, participated in an incubator & received a 50-100k offer from an investor.
 
 ##### Founder and Co-president, UBC Women in CS _Sept 2019 - Apr 2020_
@@ -156,6 +162,12 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
 - Wrote Progressive Web App with Typescript and React to extract prominent colors from images.
 - Ported functionality to separate native Android app in Kotlin and published on [Google Play](https://play.google.com/store/apps/details?id=com.tigerxdaphne.colorbreakdown&hl=en_CA).
 
+### Blog
+
+- [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - 8.5K+ views and was published by The Startup, Medium's largest active publication with 8M monthly readers. Taught how to insert nested bullet lists into Android TextView and created a lean sample Android application to walk through a step-by-step approach.
+- [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) - 3.5K+ views on my internship learnings and takeaways for other students.
+- [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - 1K+ views on my interviews with Hootsuite’s CEO, Vice President,Director, manager, and software engineers to share their advice for future interns.
+
 ### Awards
 
 <div class="float-images">
@@ -163,19 +175,14 @@ TypeScript, React, HTML/CSS, NextJS, Python, Kotlin, Java, JavaScript, JSON, SQL
   <img src="assets/images/tia.jpg" alt="Daphne on stage receiving TIA award" width="200" height="150">
 </div>
 
+- **UBC 2030 Competition** - Produced a [short pitch video](https://www.youtube.com/watch?v=iV4pgNac_4Q) for a sustainability competition at UBC and was selected as a winner amongst 40 entries.
 - **BC Tech Scholarship 2019** - Awarded to students who have a proven passion for technology and a desire to leave a mark in the tech sector. I was featured in a [press release](https://www.newswire.ca/news-releases/technology-impact-awards-celebrate-new-levels-of-growth-competitiveness-808333802.html), [magazine](https://biv.com/magazine/bc-tech-2019) and was invited to meet Prime Minister Justin Trudeau.
 - **IKB Women in Technology Scholarship 2019** - Awarded on the basis of academic achievement. [Tweeted](https://twitter.com/ubcprez/status/1202006272868069378) by UBC president Santa Ono.
 - **VISIER Service Award for Women in Computer Science 2019** - Awarded for community service and student leadership.
 - **UBC Grace Hopper Conference Scholarship 2018** - Attended the world's largest gathering of women in computing.
 - **1st Place, Lumohacks 2017** - 1st place out of 300 participants. Built VR scenarios to help patients tackle phobias with Unity and C#.
 - **Finalist, nwHacks 2018** - Finalist out of 800+ participants. Devised Android app around NFC functionality to reinvent museum experience.
-- **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. I presented our project in front of 2,500+ participants.
-
-### Blog
-
-- [**"My Remote Summer Internship at Lyft"**](https://medium.com/swlh/my-remote-summer-internship-at-lyft-8aed1460b5a9) - I wrote a blogpost to share my thoughts and learnings from my summer internsip at Lyft.
-- [**"Making Nested Lists with Android Spannables in Kotlin"**](https://medium.com/swlh/making-nested-lists-with-android-spannables-in-kotlin-4ad00052912c) - This blog post received 2,900+ views and was published by The Startup, Medium's largest active publication followed by 631K+ people. The blog is a tutorial on how to make nested lists with Android Spannables, which I learned during my Shopify internship. I created a lean sample Android application to walk through a step-by-step approach to developers.
-- [**"Advice from Full-timers at Hootsuite to Co-ops"**](https://medium.com/hootsuite-engineering/https-medium-com-daphne-liu97-advice-from-full-timers-at-hootsuite-to-co-ops-cb998702486a) - During my Hootsuite internship, I interviewed the CEO, Vice President, Director, manager, and software engineers through coffee chats to share their advice to interns from their views and experiences.
+- **1st Place, International Genetically Engineered Machine 2015** - 1st place out of 36 teams. Genetically engineered E.coli to tackle chronic inflammation. My team and I presented our project in front of 2,500+ participants.
 
 ### Education
 
@@ -185,9 +192,8 @@ Bachelor of Science in Computer Science
 
 
 ### Random fun facts
-_Since you made it this far!_
 - I'm a improv performer and sketch writer in Seattle. 
-- I've been roasted on stage at Socially Inept tech toast show.
-- I worked as a pharmacy assistant before.
-- I've won a genetic engineering competition ([iGEM](https://2015.igem.org/Team:TAS_Taipei)) in high school.
+- I've been roasted on stage at a tech toast show.
+- I've won a genetic engineering competition in high school.
 - I've won a grape stomping competition.
+- I grew up in Taiwan. 
