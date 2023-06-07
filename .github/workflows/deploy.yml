@@ -28,6 +28,6 @@ jobs:
       - name: Deploy to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: project-name
+          project: careful-butterfly-27
           import-map: "./deno.json"
           entrypoint: serve.ts
